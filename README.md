@@ -1,7 +1,4 @@
-# code-lab
-A collection of projects and exercises built while learning programming, exploring developer workflows, and improving my development skills through hands-on practice.
-
-# Learning Projects Repository 🚀
+# Code Lab Repository 🚀
 
 This repository contains a collection of projects, exercises, and coding challenges completed while learning programming and exploring modern development workflows.
 
