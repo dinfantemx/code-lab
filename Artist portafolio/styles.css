@@ -3,21 +3,35 @@ body {
     
 }
 
+.navbar {
+    margin: 32px;
+}
 h1 {
     display: inline-block;
-    font-size: 26px;
     font-weight: 300;
+    margin: 0 32px 0 0;
 }
 
 .links { 
     display: inline-block;
 }
 
-li {
+.links li {
     display: inline-block;
+    /* margin: 0 8px; */
 }
 
-li a { 
+.links a { 
     text-decoration: none;
     color: black;
+    font-size: 20px;
+    margin: 0 8px;
+}
+
+.active { 
+    border-bottom: 1px solid black;
+}
+
+.links ul {
+    padding: 0;
 }
