@@ -70,3 +70,5 @@ More Info
 Google Font: 
 Bitter (serif)
 Mukta(sans-serif)
+
+Footer color: #863ae8
