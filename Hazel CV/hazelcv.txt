@@ -1,1 +1,40 @@
-Hazel CV project
+Colors: 
+#f08e80
+
+
+
+Nav Items
+1. Blog 
+2. Speaking events
+3. Logo (Hazel)
+4. Contact Me (btn)
+
+Navbar has a padding of 24px 32px
+Space between nav items is 16px
+Font sizes: 1.2 rem (19px)
+
+Text-logo Hazel font size is 2rem (32px) font weight bold
+
+Hero: 
+
+Details 
+90vh
+
+Content 
+
+I'm a Scientist and speaker who is interested in the pschology of greed. 
+
+My mission
+This is my mission. Maecenas a varius odio egestas auctor. Praesent facilisis, ex a gravida ultricies, quam sed magna placerat eros, et vehicula lectus ligula id dui. Aliquam uto cursus velit ut eros lorem ipsum ullarncorper iaculis. 
+
+Specialties 
+
+Public Speaking
+Strategic Planning 
+Writing & Editing
+Front-End Dev
+
+Data Analysis
+User Interviews
+Analytics & Data 
+Programming
