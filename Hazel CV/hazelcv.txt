@@ -3,6 +3,7 @@ Colors:
 
 Font: Forum
 
+h1 (tagline): 4rem (64px) - letter spacing: 2px
 
 Nav Items ()
 1. Blog 
@@ -24,7 +25,7 @@ Details
 
 Content 
 
-I'm a Scientist and speaker who is interested in the pschology of greed. 
+I'm a Scientist and Speaker who is interested in the pschology of greed. 
 
 My mission
 This is my mission. Maecenas a varius odio egestas auctor. Praesent facilisis, ex a gravida ultricies, quam sed magna placerat eros, et vehicula lectus ligula id dui. Aliquam uto cursus velit ut eros lorem ipsum ullarncorper iaculis. 
