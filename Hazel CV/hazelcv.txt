@@ -1,5 +1,6 @@
 Colors: 
 #f08e80
+#fdf0e5
 
 Font: Forum
 
@@ -41,3 +42,29 @@ Data Analysis
 User Interviews
 Analytics & Data 
 Programming
+
+
+Tech Blog Section
+
+This is your brain on helium
+May 19, 2025
+
+In search of inteligence
+june 17, 2025
+
+Should public transit be free?
+march 10, 2025
+
+Speaking Events section 
+
+NY Economics Forum
+New York, NY
+August 25th 2025, 7:00pm
+
+Emerging Tech Meet-Up 
+San Francisco, CA
+July 19th 2025, 2:00pm
+
+Creative Code Meetup 
+Denver, CO
+September 25th, 6:00pm
